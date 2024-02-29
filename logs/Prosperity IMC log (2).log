@@ -1,0 +1,1022 @@
+Sandbox logs:
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c9407b18-8620-4a2e-bd87-a8134be28f27\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c9407b18-8620-4a2e-bd87-a8134be28f27\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 0
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"728e4946-9391-4935-936d-b52e1211aa26\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"728e4946-9391-4935-936d-b52e1211aa26\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9f74246f-0f61-4922-9a60-4f63b2d83941\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9f74246f-0f61-4922-9a60-4f63b2d83941\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2119f7b7-bce9-4109-b9e3-a83aa8a2fe1d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2119f7b7-bce9-4109-b9e3-a83aa8a2fe1d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a0c8e8e0-cf53-47d7-b2c5-07b29a9d26fe\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a0c8e8e0-cf53-47d7-b2c5-07b29a9d26fe\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1e45bbab-ad6b-432f-bd3a-faf4ea474765\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1e45bbab-ad6b-432f-bd3a-faf4ea474765\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"01f90cb5-7bfb-4fe9-a8dc-dcef7b8426a6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"01f90cb5-7bfb-4fe9-a8dc-dcef7b8426a6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"dec1f381-379e-4ca7-b4a3-47b6230e6bc3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"dec1f381-379e-4ca7-b4a3-47b6230e6bc3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b2e4698a-0506-423e-86f9-1e2d54e3b0fb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b2e4698a-0506-423e-86f9-1e2d54e3b0fb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"306fdf62-b34c-4915-bcda-0081d529f7e9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"306fdf62-b34c-4915-bcda-0081d529f7e9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"40cfbb47-1dd3-48d2-ab9a-bf1fc29cda7b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"40cfbb47-1dd3-48d2-ab9a-bf1fc29cda7b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bd4f48a2-89f6-423d-a276-53a36bcd727c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bd4f48a2-89f6-423d-a276-53a36bcd727c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"511d4c64-2aab-4742-bd64-83f02b8e7cbf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"511d4c64-2aab-4742-bd64-83f02b8e7cbf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1f07c027-539c-4042-b55d-451f6e6d60bc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1f07c027-539c-4042-b55d-451f6e6d60bc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"375d1cbf-baf0-4301-ba8e-7aa229f8c604\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"375d1cbf-baf0-4301-ba8e-7aa229f8c604\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4842ebb5-56c2-4a99-8c42-097baef4812c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4842ebb5-56c2-4a99-8c42-097baef4812c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1500
+}
+{
+  "sandboxLog": "Lambda errors have reached maximum value for submission 605eef23-fc98-441c-b2b3-4b98bcbf2d99",
+  "lambdaLog": null,
+  "timestamp": 1505
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ead9f6a9-18fe-4ae5-9b3d-280092317904\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ead9f6a9-18fe-4ae5-9b3d-280092317904\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2254707e-d325-4126-8849-d8a86cfd30d4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2254707e-d325-4126-8849-d8a86cfd30d4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4247412d-998b-42b0-a97e-fb726c18f969\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4247412d-998b-42b0-a97e-fb726c18f969\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ac2147d9-dd6d-4ee7-854d-514c5e63581e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ac2147d9-dd6d-4ee7-854d-514c5e63581e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 1900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0a51977d-3bff-4be4-bb0b-aed313434bf8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0a51977d-3bff-4be4-bb0b-aed313434bf8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c2190b8f-e5bc-41fb-b293-20648f02957e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c2190b8f-e5bc-41fb-b293-20648f02957e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"540ed8d7-6555-488c-ba98-06cc80000f44\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"540ed8d7-6555-488c-ba98-06cc80000f44\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"423432d3-a949-4d8e-8c77-d6c1391c9a86\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"423432d3-a949-4d8e-8c77-d6c1391c9a86\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ac7dfdcf-1c0f-45c9-b1cb-0835ad5a6ffd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ac7dfdcf-1c0f-45c9-b1cb-0835ad5a6ffd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b431fb1d-a9b2-4a9f-b3b6-886a4beb2b8b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b431fb1d-a9b2-4a9f-b3b6-886a4beb2b8b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bb70c955-807b-40eb-834b-a563e0747c49\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bb70c955-807b-40eb-834b-a563e0747c49\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f5db5669-50ef-44c9-b180-0a1d39794ce9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f5db5669-50ef-44c9-b180-0a1d39794ce9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"fdcef371-6bf7-4519-8b02-92755abe4400\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"fdcef371-6bf7-4519-8b02-92755abe4400\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"13d6c110-d138-427c-8212-dd07fed32195\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"13d6c110-d138-427c-8212-dd07fed32195\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 2900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"be038590-4780-47a8-9ae6-06324bc52667\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"be038590-4780-47a8-9ae6-06324bc52667\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a13673cb-79f1-4e64-94c2-6676221231f9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a13673cb-79f1-4e64-94c2-6676221231f9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5e8db285-0970-4a0d-b068-e6353775a038\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5e8db285-0970-4a0d-b068-e6353775a038\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a55c6fff-2fea-4b30-8815-0c3baeacb3c7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a55c6fff-2fea-4b30-8815-0c3baeacb3c7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"fc455614-d254-4ca7-9b7a-e9c2238767cf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"fc455614-d254-4ca7-9b7a-e9c2238767cf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4053f307-420a-409d-8fb2-7f34dc463ae6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4053f307-420a-409d-8fb2-7f34dc463ae6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"cc2ce580-6b2d-47a5-8d1c-aa55a760fdc5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"cc2ce580-6b2d-47a5-8d1c-aa55a760fdc5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d31ba68a-56fa-4f94-81cd-ed359d112586\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d31ba68a-56fa-4f94-81cd-ed359d112586\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7f3f9318-d2db-4b02-b89f-59c64b4324fa\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7f3f9318-d2db-4b02-b89f-59c64b4324fa\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"398ab7d8-9311-420f-b5da-5750ddb64ec2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"398ab7d8-9311-420f-b5da-5750ddb64ec2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 3900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f9aed8e7-78a1-48e9-a78f-1395733f68fd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f9aed8e7-78a1-48e9-a78f-1395733f68fd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"155dc218-4a4a-4d7b-853c-4cdbf3dccd35\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"155dc218-4a4a-4d7b-853c-4cdbf3dccd35\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5a4f7664-29e8-4eb1-b978-7633de798490\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5a4f7664-29e8-4eb1-b978-7633de798490\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5c242a16-27c8-4bd1-8e6e-4e5fcd98ff7d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5c242a16-27c8-4bd1-8e6e-4e5fcd98ff7d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2eb29c55-4986-4f11-9a9a-19317ce706b5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2eb29c55-4986-4f11-9a9a-19317ce706b5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"15d7f3c6-7ae6-4d34-acf0-dd3c5469b12d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"15d7f3c6-7ae6-4d34-acf0-dd3c5469b12d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bfbd1601-9f3c-4a9b-bbea-3b9f5dad0c10\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bfbd1601-9f3c-4a9b-bbea-3b9f5dad0c10\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"93bee56f-2bc4-44a9-b7b4-0c08ffb1c259\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"93bee56f-2bc4-44a9-b7b4-0c08ffb1c259\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"febc12c9-dea6-40db-8695-9f85c19041de\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"febc12c9-dea6-40db-8695-9f85c19041de\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7fd5c4c0-541f-45c4-9262-dc657d11cb32\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7fd5c4c0-541f-45c4-9262-dc657d11cb32\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 4900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7dc8a435-02ce-4b67-8c12-f4407052a7e3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7dc8a435-02ce-4b67-8c12-f4407052a7e3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3f539f72-a0b8-44ba-ada1-b854bda604ab\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3f539f72-a0b8-44ba-ada1-b854bda604ab\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"57cfc3b6-c36c-432e-a672-20a04f6b27e1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"57cfc3b6-c36c-432e-a672-20a04f6b27e1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3ff7b3f6-3dc5-4529-b494-88fb1ab3a59b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3ff7b3f6-3dc5-4529-b494-88fb1ab3a59b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"882e19ae-d9ee-4e17-bfc2-8abd0df845f1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"882e19ae-d9ee-4e17-bfc2-8abd0df845f1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5ada45a7-ebaf-49ae-943a-4eb6b072d894\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5ada45a7-ebaf-49ae-943a-4eb6b072d894\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5f2a9993-8452-4d21-96fb-d9d8d964da7e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5f2a9993-8452-4d21-96fb-d9d8d964da7e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f49e1dab-dd55-4575-aedf-af95975557f6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f49e1dab-dd55-4575-aedf-af95975557f6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5f310c46-c7f7-4c4a-8c62-dbf02c5f37b9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5f310c46-c7f7-4c4a-8c62-dbf02c5f37b9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5ba7dd6d-b345-4295-9f3a-9f8623f8fa68\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5ba7dd6d-b345-4295-9f3a-9f8623f8fa68\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 5900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"45976d45-97d4-4fa4-b787-a99e5771b958\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"45976d45-97d4-4fa4-b787-a99e5771b958\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b29afcc9-57d5-4a12-ac6e-8ca4bc0a0c50\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b29afcc9-57d5-4a12-ac6e-8ca4bc0a0c50\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d21cb3fa-1658-4570-9237-05681cc07894\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d21cb3fa-1658-4570-9237-05681cc07894\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"582e7715-6ba8-4f5e-89a7-e4d9114ee634\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"582e7715-6ba8-4f5e-89a7-e4d9114ee634\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"abdb5e4b-fd24-4806-94ad-9c67559be14f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"abdb5e4b-fd24-4806-94ad-9c67559be14f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4f4042ec-2f0d-4a6e-9b24-6ca31ce40d9d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4f4042ec-2f0d-4a6e-9b24-6ca31ce40d9d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0e07c1b3-af88-47e3-b875-811e3a6b9974\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0e07c1b3-af88-47e3-b875-811e3a6b9974\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0f2af47f-1078-4f55-8be8-b675f213f750\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0f2af47f-1078-4f55-8be8-b675f213f750\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"34505434-c5c9-4122-9741-5de76f0b9e65\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"34505434-c5c9-4122-9741-5de76f0b9e65\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f7220ed0-5064-431b-9ff0-3f5643fdcba8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f7220ed0-5064-431b-9ff0-3f5643fdcba8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 6900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"add551ad-f40f-454f-b68e-38fa9540f87c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"add551ad-f40f-454f-b68e-38fa9540f87c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"828f8d0f-fbed-4993-b533-c6867ab372c4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"828f8d0f-fbed-4993-b533-c6867ab372c4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7b3bd85e-4713-4564-b536-627a94a9a1c7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7b3bd85e-4713-4564-b536-627a94a9a1c7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"edc3cd35-3588-4761-9ad0-308ee5ac73f8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"edc3cd35-3588-4761-9ad0-308ee5ac73f8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"23dbabae-efba-4051-9801-975a65b256f4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"23dbabae-efba-4051-9801-975a65b256f4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a53b57a9-1b38-455b-ab5d-897c03372c62\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a53b57a9-1b38-455b-ab5d-897c03372c62\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"52bbfba0-4c44-4bea-9901-8f83db17a8dc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"52bbfba0-4c44-4bea-9901-8f83db17a8dc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e5c9d825-b1f5-4336-b838-72e451137ad5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e5c9d825-b1f5-4336-b838-72e451137ad5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bbd36e4f-92e8-407e-ab50-a695d06ffa62\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bbd36e4f-92e8-407e-ab50-a695d06ffa62\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"25657761-da4a-402c-88fd-75c16ef6ac15\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"25657761-da4a-402c-88fd-75c16ef6ac15\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 7900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0bac2113-5cda-4fb2-93e7-ec14e51d0ba6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0bac2113-5cda-4fb2-93e7-ec14e51d0ba6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2844c5b7-cf1b-435b-9795-7dc711efbdaf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2844c5b7-cf1b-435b-9795-7dc711efbdaf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9f6b096e-25e9-48c4-a613-4ddb45ab65ce\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9f6b096e-25e9-48c4-a613-4ddb45ab65ce\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1e4bc656-8ccb-43b8-a723-dfb26e7e3d22\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1e4bc656-8ccb-43b8-a723-dfb26e7e3d22\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9498779b-0633-441b-9513-ca4547fcb75c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9498779b-0633-441b-9513-ca4547fcb75c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e03494b2-e264-484b-9382-8ee1b563b323\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e03494b2-e264-484b-9382-8ee1b563b323\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e1f4e37e-1abf-44a4-a4da-904fe942bca8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e1f4e37e-1abf-44a4-a4da-904fe942bca8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1907a49c-da65-476e-a9ff-87d3f8b269e1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1907a49c-da65-476e-a9ff-87d3f8b269e1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3661e34c-e761-4ebe-94e8-ffa022aaf0cd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3661e34c-e761-4ebe-94e8-ffa022aaf0cd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"14e10825-ba81-4553-9631-dc7efe18d2d2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"14e10825-ba81-4553-9631-dc7efe18d2d2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 8900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ef74d66f-48d3-4def-ab85-549352a61cd6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ef74d66f-48d3-4def-ab85-549352a61cd6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b37e36d0-6bf1-4b34-a603-4de3f0c3cd97\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b37e36d0-6bf1-4b34-a603-4de3f0c3cd97\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c45c9f53-9cbe-4505-a62f-78d13ab6308d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c45c9f53-9cbe-4505-a62f-78d13ab6308d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5b4a7ed0-0b08-4d94-8608-35a109a96725\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5b4a7ed0-0b08-4d94-8608-35a109a96725\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"6ae6e0e4-de8c-497d-810f-15be87745115\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"6ae6e0e4-de8c-497d-810f-15be87745115\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4fa8a1de-d904-4775-b26c-a981aaf7e6a9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4fa8a1de-d904-4775-b26c-a981aaf7e6a9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"07ca4925-af61-4a60-b3ca-b67589109564\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"07ca4925-af61-4a60-b3ca-b67589109564\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c3bd4220-5e3a-4545-9c96-1aa0c68c63a6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c3bd4220-5e3a-4545-9c96-1aa0c68c63a6\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"20119e37-1a0f-4a58-8a47-2af32a1a1cd0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"20119e37-1a0f-4a58-8a47-2af32a1a1cd0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ae3a550f-a522-42b9-82d8-36270c5600fc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ae3a550f-a522-42b9-82d8-36270c5600fc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 9900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"62d48dbf-d307-4492-9fb5-45bbafae5458\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"62d48dbf-d307-4492-9fb5-45bbafae5458\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bc879721-8a4b-4aa0-9ac1-9c7a7dfd17a7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bc879721-8a4b-4aa0-9ac1-9c7a7dfd17a7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b94b5439-db6b-4a14-a42e-45135412a27f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b94b5439-db6b-4a14-a42e-45135412a27f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ee866f3f-a4c4-47d8-9eb7-78c8f201dbf0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ee866f3f-a4c4-47d8-9eb7-78c8f201dbf0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"21f1d4ee-37ec-438e-bcd1-1b88901e2692\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"21f1d4ee-37ec-438e-bcd1-1b88901e2692\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"77f1ba79-56e3-46c5-b6da-58bd8581c268\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"77f1ba79-56e3-46c5-b6da-58bd8581c268\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"00196998-2982-4a6f-86a5-1bc062dc3d5e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"00196998-2982-4a6f-86a5-1bc062dc3d5e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2b635d49-768e-4949-94bc-5ad2ea063229\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2b635d49-768e-4949-94bc-5ad2ea063229\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9c6b9170-9a2f-4745-824d-b57f474edbc2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9c6b9170-9a2f-4745-824d-b57f474edbc2\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5d2f6f67-96f5-4c05-b37c-31e3e8c4339f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"5d2f6f67-96f5-4c05-b37c-31e3e8c4339f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 10900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"6a230aac-dd1a-465c-a8d7-0a2b105a95f1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"6a230aac-dd1a-465c-a8d7-0a2b105a95f1\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"53adb3c6-2c91-4d54-9640-935d65899b9f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"53adb3c6-2c91-4d54-9640-935d65899b9f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"cb66286e-06f9-4633-9534-429442c7477f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"cb66286e-06f9-4633-9534-429442c7477f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"af5a52b7-387f-4b30-aa34-fd37fe878356\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"af5a52b7-387f-4b30-aa34-fd37fe878356\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ace618cd-bfee-44e1-8f33-565c281285b3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ace618cd-bfee-44e1-8f33-565c281285b3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"17f33450-7261-4827-8d10-bf6ee197a8d9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"17f33450-7261-4827-8d10-bf6ee197a8d9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2a251285-d351-4ef9-b164-c23311a545bd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2a251285-d351-4ef9-b164-c23311a545bd\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"28039d9e-5b26-4163-af8b-121b5772bc0b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"28039d9e-5b26-4163-af8b-121b5772bc0b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"66ab9221-d9ce-4c0f-9ef5-896eeda63bdc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"66ab9221-d9ce-4c0f-9ef5-896eeda63bdc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e90be716-5444-4ddc-a3dd-fa71648f3f77\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e90be716-5444-4ddc-a3dd-fa71648f3f77\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 11900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0ccf155f-86a2-461c-8b6b-f70e45f5aecc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0ccf155f-86a2-461c-8b6b-f70e45f5aecc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"92762e46-dc6b-4268-940d-ac36bdcaff29\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"92762e46-dc6b-4268-940d-ac36bdcaff29\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0b0ddd7e-4f60-43c6-9146-a3278e8d4de5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0b0ddd7e-4f60-43c6-9146-a3278e8d4de5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"161ebf28-04bd-4996-8b18-a1db4d136296\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"161ebf28-04bd-4996-8b18-a1db4d136296\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bbaa6267-cef6-403b-8cd3-01071f43c47a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bbaa6267-cef6-403b-8cd3-01071f43c47a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"52964324-4a95-4ec8-b3c8-ad8c5e6060f4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"52964324-4a95-4ec8-b3c8-ad8c5e6060f4\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"dd9391eb-6a4a-4a9f-8c2e-da907d8abca7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"dd9391eb-6a4a-4a9f-8c2e-da907d8abca7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e4f3fcc1-ded9-4e6b-8095-1a49a4b38ccc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"e4f3fcc1-ded9-4e6b-8095-1a49a4b38ccc\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3c122790-7750-462e-8fac-bec443a292ec\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3c122790-7750-462e-8fac-bec443a292ec\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f6798901-3e0f-42ed-a3ed-3e00251e2710\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f6798901-3e0f-42ed-a3ed-3e00251e2710\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 12900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"52fc2029-6abd-4561-a16e-80022de8d7cb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"52fc2029-6abd-4561-a16e-80022de8d7cb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"6b096260-69c8-4d09-987d-eb5f69389a1d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"6b096260-69c8-4d09-987d-eb5f69389a1d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"788ea31b-3127-4072-a11c-f70ed0d80e7a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"788ea31b-3127-4072-a11c-f70ed0d80e7a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c99c709b-6b33-4ec7-beff-5ad8e018f819\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c99c709b-6b33-4ec7-beff-5ad8e018f819\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"86d13bbc-8458-4b34-b892-6fbef6ff4fc9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"86d13bbc-8458-4b34-b892-6fbef6ff4fc9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3138a505-bfb9-4196-863f-ec21c2fe7afe\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3138a505-bfb9-4196-863f-ec21c2fe7afe\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3a24f779-23e4-4301-9d63-9bb5c560d4bf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"3a24f779-23e4-4301-9d63-9bb5c560d4bf\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"686c2461-7a0e-4ff7-9428-9ef052233c60\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"686c2461-7a0e-4ff7-9428-9ef052233c60\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9cba3e4c-acf1-4810-8ecf-5eab0e3ace5f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9cba3e4c-acf1-4810-8ecf-5eab0e3ace5f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"768016e0-ba90-4970-b606-e2468e8f5514\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"768016e0-ba90-4970-b606-e2468e8f5514\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 13900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ed1c67ce-b5a3-48a0-b0c3-19d8ecc06fff\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"ed1c67ce-b5a3-48a0-b0c3-19d8ecc06fff\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c6e389e8-bf1e-4aeb-b7be-19e42a0617bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c6e389e8-bf1e-4aeb-b7be-19e42a0617bb\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bc76a582-1036-4118-a3cb-ea639dcef041\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bc76a582-1036-4118-a3cb-ea639dcef041\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c3d52b3d-20f8-4faa-a248-a46817aa171e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c3d52b3d-20f8-4faa-a248-a46817aa171e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4a7a01ad-1d3c-4395-893a-6ce86f079035\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4a7a01ad-1d3c-4395-893a-6ce86f079035\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2afd354c-3e86-4418-885d-cac34aced7c0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2afd354c-3e86-4418-885d-cac34aced7c0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0e4201d1-eb04-438a-9bdb-39b31100337e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0e4201d1-eb04-438a-9bdb-39b31100337e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"59e2db1a-1066-469f-a69a-ef280a4aa09c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"59e2db1a-1066-469f-a69a-ef280a4aa09c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d2d69457-d848-4c0c-86da-bbc2d2a6aef9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d2d69457-d848-4c0c-86da-bbc2d2a6aef9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4f2c3bb1-e969-4412-a661-a0277b720a18\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4f2c3bb1-e969-4412-a661-a0277b720a18\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 14900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7a55913f-ecba-48eb-a431-fcac9880f24c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7a55913f-ecba-48eb-a431-fcac9880f24c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0995c75d-9dd6-4060-869f-46d836a91e7f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0995c75d-9dd6-4060-869f-46d836a91e7f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bc09d1e6-684a-448e-aa5c-c9e9aa1058ac\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bc09d1e6-684a-448e-aa5c-c9e9aa1058ac\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b196fc64-ac2b-4898-b538-30f38736d09f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b196fc64-ac2b-4898-b538-30f38736d09f\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"279c5eb7-66ea-4bee-94fb-93f900f370de\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"279c5eb7-66ea-4bee-94fb-93f900f370de\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"32119bd5-346f-4a87-9ed4-4fca9737f805\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"32119bd5-346f-4a87-9ed4-4fca9737f805\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4e062b40-e892-46f7-9dfe-772702b080ec\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4e062b40-e892-46f7-9dfe-772702b080ec\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bebef2c6-7983-4da6-94e9-42dfb9309686\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bebef2c6-7983-4da6-94e9-42dfb9309686\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"aa560a7a-653f-49dd-9ed6-674ee8d4ee78\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"aa560a7a-653f-49dd-9ed6-674ee8d4ee78\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"77fd049a-8ce4-411a-97a5-33b8f46bcd18\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"77fd049a-8ce4-411a-97a5-33b8f46bcd18\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 15900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"da970432-27ab-4862-ba79-378a0cfd2877\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"da970432-27ab-4862-ba79-378a0cfd2877\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4c340ab7-df60-468b-a145-0e399c14a600\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"4c340ab7-df60-468b-a145-0e399c14a600\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1c94c045-e8ae-49a8-b160-2365ff57408d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"1c94c045-e8ae-49a8-b160-2365ff57408d\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"29c8dfe1-80bc-4b7f-887c-dee1fb4ec893\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"29c8dfe1-80bc-4b7f-887c-dee1fb4ec893\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"60adb28f-1048-413c-b3ee-9921eb742634\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"60adb28f-1048-413c-b3ee-9921eb742634\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2f506430-d001-40b9-b60c-d4537b60675e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2f506430-d001-40b9-b60c-d4537b60675e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f13b63af-5fb1-43a0-8d74-cd261327cc32\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f13b63af-5fb1-43a0-8d74-cd261327cc32\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b63c14e2-ff8b-475d-8050-d71743557fd9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b63c14e2-ff8b-475d-8050-d71743557fd9\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c85c6985-2c71-4867-bfef-f4235395cc81\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c85c6985-2c71-4867-bfef-f4235395cc81\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0f0de323-e808-4b82-a208-f9aa1d77b917\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"0f0de323-e808-4b82-a208-f9aa1d77b917\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 16900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d0c63a09-4188-40ed-bc07-a7c860f29d27\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d0c63a09-4188-40ed-bc07-a7c860f29d27\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"24c8a1ff-4279-4120-8e28-4056cab09950\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"24c8a1ff-4279-4120-8e28-4056cab09950\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9d2ec90d-80e3-413c-b367-f49cf5d40c5a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9d2ec90d-80e3-413c-b367-f49cf5d40c5a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d3ebcf90-a78d-4536-8cdd-cacb80f890c5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d3ebcf90-a78d-4536-8cdd-cacb80f890c5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c5422b43-0e98-43a7-8738-b63e05cb08ec\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c5422b43-0e98-43a7-8738-b63e05cb08ec\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f7e28d1b-2803-460f-adfa-bf70012aaa02\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f7e28d1b-2803-460f-adfa-bf70012aaa02\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9678ee5d-a713-4602-aa1a-d2d5fb5d4c15\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9678ee5d-a713-4602-aa1a-d2d5fb5d4c15\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"8a066571-abd6-4185-b412-da6047f137e5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"8a066571-abd6-4185-b412-da6047f137e5\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"29d07faf-fae5-408f-831e-39fc7cd820ca\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"29d07faf-fae5-408f-831e-39fc7cd820ca\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"905e0605-9446-45d2-bec1-cfbdd7b12a2a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"905e0605-9446-45d2-bec1-cfbdd7b12a2a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 17900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f42f7099-3562-4547-8711-9c4925df06d7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f42f7099-3562-4547-8711-9c4925df06d7\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b4bcfc24-959a-4055-8499-582f23ec5f6c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b4bcfc24-959a-4055-8499-582f23ec5f6c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"67d0ea42-14af-4067-b27f-e2e0dd1e7457\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"67d0ea42-14af-4067-b27f-e2e0dd1e7457\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"368e6df6-d96f-4dec-a2fd-79575b5c858b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"368e6df6-d96f-4dec-a2fd-79575b5c858b\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"8d7190c5-d694-4d5f-b0fb-83e3e590593a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"8d7190c5-d694-4d5f-b0fb-83e3e590593a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7e56c2d4-bb0e-4fee-b69d-5ede5ba3438c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"7e56c2d4-bb0e-4fee-b69d-5ede5ba3438c\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f22ff24c-5c1d-484e-a2f0-567fab160596\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"f22ff24c-5c1d-484e-a2f0-567fab160596\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"14429ed9-b8f2-4220-8265-fe8b5173d5c8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"14429ed9-b8f2-4220-8265-fe8b5173d5c8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9446d195-d65a-4fef-a583-0037e874d671\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"9446d195-d65a-4fef-a583-0037e874d671\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c78a8efc-9450-482c-a7c7-bc4e43eb601a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c78a8efc-9450-482c-a7c7-bc4e43eb601a\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 18900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"cc25a942-70cd-4ebc-863c-7e65021523de\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"cc25a942-70cd-4ebc-863c-7e65021523de\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19000
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d78dabe6-5773-43f8-86f9-c95d13b5011e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d78dabe6-5773-43f8-86f9-c95d13b5011e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19100
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c3d44eaa-6b57-4977-96a3-6b74024be989\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"c3d44eaa-6b57-4977-96a3-6b74024be989\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19200
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"13e88aba-2af8-4771-a2b5-16070c2f8451\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"13e88aba-2af8-4771-a2b5-16070c2f8451\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19300
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bcb44ff2-a9e5-4533-8074-4d128e578ca0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"bcb44ff2-a9e5-4533-8074-4d128e578ca0\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19400
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a92d7d5d-6b2b-42ea-82bc-bd9bf28f215e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"a92d7d5d-6b2b-42ea-82bc-bd9bf28f215e\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19500
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"db4cf912-1597-44a4-b052-13b84b0f8510\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"db4cf912-1597-44a4-b052-13b84b0f8510\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19600
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b2893266-f8ce-487b-8a5d-c53de074f742\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"b2893266-f8ce-487b-8a5d-c53de074f742\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19700
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d302b20a-d57a-4bff-83be-f5cb497afa37\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"d302b20a-d57a-4bff-83be-f5cb497afa37\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19800
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"48423833-0a1f-49a7-a42c-67cd92dc0db3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"48423833-0a1f-49a7-a42c-67cd92dc0db3\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 19900
+}
+{
+  "sandboxLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2202d5ee-bf45-4f57-9988-422d687ac4b8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "lambdaLog": "{\"errorMessage\": \"Trader.run() takes 1 positional argument but 2 were given\", \"errorType\": \"TypeError\", \"requestId\": \"2202d5ee-bf45-4f57-9988-422d687ac4b8\", \"stackTrace\": [\"  File \\\"/var/task/app.py\\\", line 31, in lambda_handler\\n    orders, conversion, traderData = trader.run(trading_state)\\n\"]}",
+  "timestamp": 20000
+}
+
+
+
+Activities log:
+day;timestamp;product;bid_price_1;bid_volume_1;bid_price_2;bid_volume_2;bid_price_3;bid_volume_3;ask_price_1;ask_volume_1;ask_price_2;ask_volume_2;ask_price_3;ask_volume_3;mid_price;profit_and_loss
+
+
+
+
+Trade History:
+null

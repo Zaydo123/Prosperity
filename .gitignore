@@ -1,0 +1,7 @@
+# Conda environment
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+__pycache__
